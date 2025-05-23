@@ -1,0 +1,16 @@
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\bin\Debug\SoftProgPersistance.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\bin\Debug\SoftProgPersistance.pdb
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\bin\Debug\MySql.Data.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\bin\Debug\SoftProgDBManager.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\bin\Debug\SoftProgDomain.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\bin\Debug\System.Memory.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\bin\Debug\System.Numerics.Vectors.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\bin\Debug\System.Buffers.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\bin\Debug\SoftProgDBManager.pdb
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\bin\Debug\SoftProgDomain.pdb
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\obj\Debug\SoftProgPersistance.csproj.AssemblyReference.cache
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\obj\Debug\SoftProgPersistance.csproj.CoreCompileInputs.cache
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\obj\Debug\SoftProg.4111A7A1.Up2Date
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\obj\Debug\SoftProgPersistance.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgPersistance\obj\Debug\SoftProgPersistance.pdb

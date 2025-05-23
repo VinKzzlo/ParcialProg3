@@ -1,0 +1,12 @@
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDBManager\bin\Debug\SoftProgDBManager.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDBManager\bin\Debug\SoftProgDBManager.pdb
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDBManager\bin\Debug\MySql.Data.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDBManager\bin\Debug\System.Memory.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDBManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDBManager\bin\Debug\System.Numerics.Vectors.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDBManager\bin\Debug\System.Buffers.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDBManager\obj\Debug\SoftProgDBManager.csproj.AssemblyReference.cache
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDBManager\obj\Debug\SoftProgDBManager.csproj.CoreCompileInputs.cache
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDBManager\obj\Debug\SoftProg.37367387.Up2Date
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDBManager\obj\Debug\SoftProgDBManager.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDBManager\obj\Debug\SoftProgDBManager.pdb

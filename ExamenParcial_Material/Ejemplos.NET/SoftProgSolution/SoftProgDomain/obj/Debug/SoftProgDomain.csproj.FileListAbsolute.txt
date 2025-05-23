@@ -1,0 +1,6 @@
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDomain\bin\Debug\SoftProgDomain.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDomain\bin\Debug\SoftProgDomain.pdb
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDomain\obj\Debug\SoftProgDomain.csproj.AssemblyReference.cache
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDomain\obj\Debug\SoftProgDomain.csproj.CoreCompileInputs.cache
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDomain\obj\Debug\SoftProgDomain.dll
+D:\PUCP 2025-I\Programación 3\Ejemplos.NET\SoftProgSolution\SoftProgDomain\obj\Debug\SoftProgDomain.pdb

@@ -1,0 +1,5 @@
+﻿server = database-prog3-681.cl2008m8srdx.us-east-1.rds.amazonaws.com;
+user = kiwadmin;
+password = Gahji51Kiwi;
+database = prog3;
+port = 3306;

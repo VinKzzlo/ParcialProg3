@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PUCP 2025-I\\Programaci\u00F3n 3\\Ejemplos.NET\\SoftProgSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{601E456C-FE21-4161-95AE-AF2052B16FC2}|SoftProgPersistance\\SoftProgPersistance.csproj|d:\\pucp 2025-i\\programaci\u00F3n 3\\ejemplos.net\\softprogsolution\\softprogpersistance\\rrhh\\impl\\areaimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601E456C-FE21-4161-95AE-AF2052B16FC2}|SoftProgPersistance\\SoftProgPersistance.csproj|solutionrelative:softprogpersistance\\rrhh\\impl\\areaimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C163B7F-8D2C-4D7C-8BAA-A958042E107C}|SoftProgBusiness\\SoftProgBusiness.csproj|d:\\pucp 2025-i\\programaci\u00F3n 3\\ejemplos.net\\softprogsolution\\softprogbusiness\\rrhh\\areabo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C163B7F-8D2C-4D7C-8BAA-A958042E107C}|SoftProgBusiness\\SoftProgBusiness.csproj|solutionrelative:softprogbusiness\\rrhh\\areabo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E79DE-05DB-47BF-90DD-61822809AE70}|SoftProgWA\\SoftProgWA.csproj|D:\\PUCP 2025-I\\Programaci\u00F3n 3\\Ejemplos.NET\\SoftProgSolution\\softprogwa\\registrararea.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E79DE-05DB-47BF-90DD-61822809AE70}|SoftProgWA\\SoftProgWA.csproj|solutionrelative:softprogwa\\registrararea.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E79DE-05DB-47BF-90DD-61822809AE70}|SoftProgWA\\SoftProgWA.csproj|D:\\PUCP 2025-I\\Programaci\u00F3n 3\\Ejemplos.NET\\SoftProgSolution\\softprogwa\\registrararea.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{672E79DE-05DB-47BF-90DD-61822809AE70}|SoftProgWA\\SoftProgWA.csproj|solutionrelative:softprogwa\\registrararea.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 64,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AreaImpl.cs",
+              "DocumentMoniker": "D:\\PUCP 2025-I\\Programaci\u00F3n 3\\Ejemplos.NET\\SoftProgSolution\\SoftProgPersistance\\RRHH\\Impl\\AreaImpl.cs",
+              "RelativeDocumentMoniker": "SoftProgPersistance\\RRHH\\Impl\\AreaImpl.cs",
+              "ToolTip": "D:\\PUCP 2025-I\\Programaci\u00F3n 3\\Ejemplos.NET\\SoftProgSolution\\SoftProgPersistance\\RRHH\\Impl\\AreaImpl.cs",
+              "RelativeToolTip": "SoftProgPersistance\\RRHH\\Impl\\AreaImpl.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:26:41.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AreaBO.cs",
+              "DocumentMoniker": "D:\\PUCP 2025-I\\Programaci\u00F3n 3\\Ejemplos.NET\\SoftProgSolution\\SoftProgBusiness\\RRHH\\AreaBO.cs",
+              "RelativeDocumentMoniker": "SoftProgBusiness\\RRHH\\AreaBO.cs",
+              "ToolTip": "D:\\PUCP 2025-I\\Programaci\u00F3n 3\\Ejemplos.NET\\SoftProgSolution\\SoftProgBusiness\\RRHH\\AreaBO.cs",
+              "RelativeToolTip": "SoftProgBusiness\\RRHH\\AreaBO.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:49:01.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrarArea.aspx",
+              "DocumentMoniker": "D:\\PUCP 2025-I\\Programaci\u00F3n 3\\Ejemplos.NET\\SoftProgSolution\\SoftProgWA\\RegistrarArea.aspx",
+              "RelativeDocumentMoniker": "SoftProgWA\\RegistrarArea.aspx",
+              "ToolTip": "D:\\PUCP 2025-I\\Programaci\u00F3n 3\\Ejemplos.NET\\SoftProgSolution\\SoftProgWA\\RegistrarArea.aspx",
+              "RelativeToolTip": "SoftProgWA\\RegistrarArea.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-23T07:29:19.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrarArea.aspx.cs",
+              "DocumentMoniker": "D:\\PUCP 2025-I\\Programaci\u00F3n 3\\Ejemplos.NET\\SoftProgSolution\\SoftProgWA\\RegistrarArea.aspx.cs",
+              "RelativeDocumentMoniker": "SoftProgWA\\RegistrarArea.aspx.cs",
+              "ToolTip": "D:\\PUCP 2025-I\\Programaci\u00F3n 3\\Ejemplos.NET\\SoftProgSolution\\SoftProgWA\\RegistrarArea.aspx.cs*",
+              "RelativeToolTip": "SoftProgWA\\RegistrarArea.aspx.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:29:18.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
